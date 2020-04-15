@@ -1,0 +1,19 @@
+[
+  {
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "arrowParens": "always",
+    "singleQuote": true,
+    "endOfLine": "auto"
+  },
+  {
+    "files": [
+      "*.html",
+      "legacy/**/*.js"
+    ],
+    "options": {
+      "tabWidth": 4
+    }
+  }
+]
